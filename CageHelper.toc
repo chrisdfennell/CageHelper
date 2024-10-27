@@ -1,0 +1,8 @@
+## Interface: 110005
+## Title: Cage Helper
+## Author: Fennell
+## Version: 1.0
+## Notes: An addon to help identify and cage duplicate pets.
+## Dependencies: Ace3
+
+CageHelper.lua
